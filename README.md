@@ -11,4 +11,6 @@ Il est écrit en assembleur ARMv7 et gère les demande d'étages grâce à 4 bou
 ![Screenshot 2024-01-18 113509](https://github.com/NicolasGiry/Assembly-Elevator-Display/assets/114723956/1a6c8ed2-bc49-454e-a982-ed88b7996d46)
 
 
-Vous pouvez simuler son utilisation sur le site https://cpulator.01xz.net/?sys=arm en choisissant le système ARMv7 DE1-SoC ou regarder la video de simulation https://drive.google.com/file/d/1WaY9JQ7pvFRNf2NUkU8eEr5Xs1UG4Eyl/view?usp=sharing. 
+Vous pouvez simuler son utilisation sur le site https://cpulator.01xz.net/?sys=arm en choisissant le système ARMv7 DE1-SoC ou regarder la video de simulation. 
+
+https://github.com/NicolasGiry/Assembly-Elevator-Display/assets/114723956/b6f22a61-89f8-4a16-ae68-e3d32bcb6ed0
